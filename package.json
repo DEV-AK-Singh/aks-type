@@ -1,0 +1,17 @@
+{
+  "name": "aks-type",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "A simple utility package to check data types",
+  "keywords": ["type", "check", "string", "number", "boolean"],
+  "author": "Abhishek Singh",
+  "license": "MIT",
+  "dependencies": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dev-Ak-Singh/aks-type.git"
+  }
+}
