@@ -1,4 +1,4 @@
-# @devaks/is-type
+# aks-type
 
 A very simple utility library to check basic JavaScript types.
 
